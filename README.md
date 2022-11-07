@@ -1,7 +1,8 @@
 # Sobre mim
 
 - 👋 Hi, I’m @2vitor7
-- 🐒 my email contato é vitor.de.castro@escola.pr.gov.br
+- 🐒 Meu email contato é 
+vitor.de.castro@escola.pr.gov.br
 
 - 👀 I’m interested in aprendizado,editar
 - 🌱 I’m currently learning códigos 
